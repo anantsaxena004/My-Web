@@ -1,0 +1,58 @@
+body {
+    font-family: 'Sora', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+.navbar-brand {
+    
+    font-weight: bold;
+}
+
+
+
+.container {
+    max-width: 960px;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #8750f7;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #8750f7;
+    border-color: #8750f7;
+    border-radius: 20px;
+}
+
+
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-weight: bold;
+    padding-top: 20px;
+    
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mx-2 {
+    margin-left: .5rem !important;
+    margin-right: .5rem !important;
+}
+
+.btn-primary:hover { 
+    background-color: #7a45d6; border-color: #7a45d6; }
+
+
+
+    
